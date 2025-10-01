@@ -1,0 +1,5 @@
+rembg==2.0.57
+pillow==10.2.0
+ttkbootstrap==1.10.1
+streamlit==1.35.0
+onnxruntime==1.16.3
