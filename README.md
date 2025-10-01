@@ -68,7 +68,7 @@ All dependencies are listed in `requirements.txt`:
 ---
 
 ## 🖼 Preview
-[!App Screenshot](Screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
